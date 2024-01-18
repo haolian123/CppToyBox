@@ -8,6 +8,8 @@
 2. [tree指令](https://github.com/haolian123/CppToyBox/tree/main/tree)
 3. [线程池](https://github.com/haolian123/ThreadPool)
 4. [设计模式C++版本](https://github.com/haolian123/CppToyBox/tree/main/design-pattern)
+5. [linux Mysql连接池](https://github.com/haolian123/CppToyBox/tree/main/DataBaseConnectionPool)
+6. [Linux 并发控制工具](https://github.com/haolian123/CppToyBox/tree/main/ThreadSyncTools)
 
 ## C++学习笔记
 
