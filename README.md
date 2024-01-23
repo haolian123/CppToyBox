@@ -26,8 +26,10 @@
 ## 面试题
 
 1. [C++](https://github.com/haolian123/CppToyBox/blob/main/Cpp-interview/C%2B%2B.md)
+2. [EffectiveC++笔记](https://github.com/haolian123/CppToyBox/blob/main/Cpp-interview/EffectiveC%2B%2B笔记.md)
 
 ## 参考资料
 
 1. [C++那些事](https://github.com/Light-City/CPlusPlusThings)
-2. [C++面试题](https://github.com/huihut/interview?)
+2. https://github.com/huihut/interview
+
