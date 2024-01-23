@@ -23,6 +23,11 @@
 8. [C++内存模型和Atomic操作](https://github.com/haolian123/CppToyBox/blob/main/Cpp-notes/C%2B%2B内存模型和Atomic操作.md)
 9. [C++函数式编程](https://github.com/haolian123/CppToyBox/blob/main/Cpp-notes/C%2B%2B函数式编程.md)
 
+## 面试题
+
+1. [C++](https://github.com/haolian123/CppToyBox/blob/main/Cpp-interview/C%2B%2B.md)
+
 ## 参考资料
 
-[C++那些事](https://github.com/Light-City/CPlusPlusThings)
+1. [C++那些事](https://github.com/Light-City/CPlusPlusThings)
+2. [C++面试题](https://github.com/huihut/interview?)
