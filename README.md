@@ -27,6 +27,10 @@
 
 1. [C++](https://github.com/haolian123/CppToyBox/blob/main/Cpp-interview/C%2B%2B.md)
 2. [EffectiveC++笔记](https://github.com/haolian123/CppToyBox/blob/main/Cpp-interview/EffectiveC%2B%2B笔记.md)
+3. [STL](https://github.com/haolian123/CppToyBox/blob/main/Cpp-interview/STL.md)
+4. [Redis](https://github.com/haolian123/CppToyBox/blob/main/Cpp-interview/redis.md)
+5. [计算机网络](https://github.com/haolian123/CppToyBox/blob/main/Cpp-interview/计算机网络.md)
+6. [设计模式](https://github.com/haolian123/CppToyBox/blob/main/Cpp-interview/设计模式.md)
 
 ## 参考资料
 
