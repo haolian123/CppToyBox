@@ -25,6 +25,7 @@
 7. [C++编译期编程](https://github.com/haolian123/CppToyBox/blob/main/Cpp-notes/C%2B%2B编译期编程.md)
 8. [C++内存模型和Atomic操作](https://github.com/haolian123/CppToyBox/blob/main/Cpp-notes/C%2B%2B内存模型和Atomic操作.md)
 9. [C++函数式编程](https://github.com/haolian123/CppToyBox/blob/main/Cpp-notes/C%2B%2B函数式编程.md)
+10. [CMake](https://github.com/haolian123/CppToyBox/blob/main/Cpp-notes/CMake.md)
 
 ## 面试题
 
