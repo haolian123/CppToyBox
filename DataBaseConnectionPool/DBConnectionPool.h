@@ -1,23 +1,24 @@
 #ifndef DB_CONNECTION_POOL
 #define DB_CONNECTION_POOL
 
-#include<mysql/mysql.h>
-#include<string>
-#include<queue>
-#include<mutex>
-#include<semaphore.h>
-#include<memory>
-#include<thread>
-#include<cassert>
+#include <mysql/mysql.h>
+#include <string>
+#include <queue>
+#include <mutex>
+#include <memory>
+#include <thread>
+#include <cassert>
+#include <condition_variable>
+
 class DBConnectionPool {
 public:
-    // 获取连接池实例的静态方法
+    // 获取单例对象的静态方法
     static DBConnectionPool* getInstance();
 
-    // 释放数据库连接
+    // 释放连接回连接池
     void freeConnection(MYSQL* connection);
 
-    // 获取数据库连接
+    // 从连接池获取一个连接
     MYSQL* getConnection();
 
     // 初始化连接池
@@ -31,21 +32,32 @@ public:
     // 获取空闲连接数
     int getFreeConnectionNumber();
 
+    // 删除拷贝构造函数
+    DBConnectionPool(const DBConnectionPool& other) = delete;
+    // 删除拷贝赋值运算符
+    DBConnectionPool& operator=(const DBConnectionPool& other) = delete;
+    // 删除移动构造函数
+    DBConnectionPool(DBConnectionPool&& other) = delete;
+    // 删除移动赋值运算符
+    DBConnectionPool& operator=(DBConnectionPool&& other) = delete;
+
 private:
-    // 构造函数和析构函数私有化，确保单例模式
+    // 私有构造函数
     DBConnectionPool();
+    // 析构函数
     ~DBConnectionPool();
-
-    int maxConnection;     // 连接池最大连接数
-    int useNumber;         // 已使用的连接数
-    int freeNumber;        // 空闲的连接数
-
-    std::queue<MYSQL*> connectionQueue;  // 存放连接的队列
-    std::mutex mutex;                   // 用于多线程同步访问连接池
-    sem_t semId;                        // 信号量，用于控制连接的分配和释放
+    // 最大连接数
+    int maxConnection;
+    // 使用中的连接数
+    int useNumber;
+    // 空闲的连接数
+    int freeNumber;
+    // 连接队列
+    std::queue<MYSQL*> connectionQueue;
+    // 互斥锁
+    std::mutex mutex;
+    // 条件变量，用于线程同步
+    std::condition_variable condition;
 };
-
-
-
 
 #endif
