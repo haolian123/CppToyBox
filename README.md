@@ -1,15 +1,18 @@
 ## 简介
 
-​	C++编程练习过程中编写过的一些小项目的合集和整理过的学习笔记。
+​	C++编程练习过程中编写过的一些小项目的合集和整理过的学习笔记(持续更新)
 
 ## 项目列表
 
-1. [智能指针](https://github.com/haolian123/CppToyBox/tree/main/smart_pointer)
-2. [tree指令](https://github.com/haolian123/CppToyBox/tree/main/tree)
-3. [线程池](https://github.com/haolian123/ThreadPool)
-4. [设计模式C++版本](https://github.com/haolian123/CppToyBox/tree/main/design-pattern)
-5. [linux Mysql连接池](https://github.com/haolian123/CppToyBox/tree/main/DataBaseConnectionPool)
-6. [Linux 并发控制工具](https://github.com/haolian123/CppToyBox/tree/main/ThreadSyncTools)
+1. [设计模式 C++版本](https://github.com/haolian123/CppToyBox/tree/main/design-pattern)
+2. [智能指针](https://github.com/haolian123/CppToyBox/tree/main/smart_pointer)
+3. [tree指令](https://github.com/haolian123/CppToyBox/tree/main/tree)
+4. [linux 并发控制工具](https://github.com/haolian123/CppToyBox/tree/main/ThreadSyncTools)
+5. [简易线程池](https://github.com/haolian123/CppToyBox/tree/main/ThreadPool)
+6. [更复杂的线程池](https://github.com/haolian123/ThreadPool)
+7. [epoll管理器](https://github.com/haolian123/CppToyBox/tree/main/EpollHandler)
+8. [linux Mysql连接池](https://github.com/haolian123/CppToyBox/tree/main/DataBaseConnectionPool)
+9. [消息队列](https://github.com/haolian123/CppToyBox/tree/main/MessageQueue)
 
 ## C++学习笔记
 
