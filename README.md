@@ -26,6 +26,7 @@
 8. [C++内存模型和Atomic操作](https://github.com/haolian123/CppToyBox/blob/main/Cpp-notes/C%2B%2B内存模型和Atomic操作.md)
 9. [C++函数式编程](https://github.com/haolian123/CppToyBox/blob/main/Cpp-notes/C%2B%2B函数式编程.md)
 10. [CMake](https://github.com/haolian123/CppToyBox/blob/main/Cpp-notes/CMake.md)
+11. [C++网络编程](https://github.com/haolian123/CppToyBox/blob/main/Cpp-notes/C%2B%2B%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B.md)
 
 ## 面试题
 
@@ -35,6 +36,7 @@
 4. [Redis](https://github.com/haolian123/CppToyBox/blob/main/Cpp-interview/redis.md)
 5. [计算机网络](https://github.com/haolian123/CppToyBox/blob/main/Cpp-interview/计算机网络.md)
 6. [设计模式](https://github.com/haolian123/CppToyBox/blob/main/Cpp-interview/设计模式.md)
+7. [编译链接](https://github.com/haolian123/CppToyBox/blob/main/Cpp-interview/编译链接.md)
 
 ## 参考资料
 
