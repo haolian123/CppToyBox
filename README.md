@@ -39,6 +39,7 @@
 7. [设计模式](https://github.com/haolian123/CppToyBox/blob/main/Cpp-interview/设计模式.md)
 8. [编译链接](https://github.com/haolian123/CppToyBox/blob/main/Cpp-interview/编译链接.md)
 9. [CMake](https://github.com/haolian123/CppToyBox/blob/main/Cpp-notes/CMake.md)
+10. [Linux](https://github.com/haolian123/CppToyBox/blob/main/Cpp-interview/Linux.md)
 
 ## 参考资料
 
