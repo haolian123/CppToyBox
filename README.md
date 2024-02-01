@@ -43,6 +43,8 @@
 11. [CMake](https://github.com/haolian123/CppToyBox/blob/main/Cpp-notes/CMake.md)
 12. [Linux](https://github.com/haolian123/CppToyBox/blob/main/Cpp-interview/Linux.md)
 
+ 🔔[pdf版本](https://github.com/haolian123/CppToyBox/blob/main/Cpp-interview/pdf)
+
 ## 参考资料
 
 1. [C++那些事](https://github.com/Light-City/CPlusPlusThings)
