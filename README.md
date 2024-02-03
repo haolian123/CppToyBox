@@ -14,6 +14,7 @@
 8. [linux Mysql连接池](https://github.com/haolian123/CppToyBox/tree/main/DataBaseConnectionPool)
 9. [消息队列](https://github.com/haolian123/CppToyBox/tree/main/MessageQueue)
 10. [STL容器快捷输出工具](https://github.com/haolian123/CppToyBox/tree/main/ContainerOutput)
+11. [页面置换算法FIFO,LRU,LFU](https://github.com/haolian123/CppToyBox/tree/main/PageReplacement)
 
 ## C++高级
 
