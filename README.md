@@ -15,6 +15,9 @@
 9. [消息队列](https://github.com/haolian123/CppToyBox/tree/main/MessageQueue)
 10. [STL容器快捷输出工具](https://github.com/haolian123/CppToyBox/tree/main/ContainerOutput)
 11. [页面置换算法FIFO,LRU,LFU](https://github.com/haolian123/CppToyBox/tree/main/PageReplacement)
+12. [数据结构实现](https://github.com/haolian123/CppToyBox/blob/main/DataStruct)
+    1. [B树](https://github.com/haolian123/CppToyBox/blob/main/DataStruct/BTree.h)
+    2. [跳表](https://github.com/haolian123/CppToyBox/blob/main/DataStruct/SkipList.h)
 
 ## C++高级
 
