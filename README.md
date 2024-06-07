@@ -1,6 +1,6 @@
 ## 简介
 
-​	C++编程练习过程中编写过的一些小项目的合集和整理过的学习笔记(持续更新)
+    C++编程练习过程中编写过的一些小项目的合集和整理过的学习笔记(持续更新)
 
 ## 项目列表
 
@@ -22,7 +22,7 @@
 
 1. [C++编程风格](https://github.com/haolian123/CppToyBox/blob/main/Cpp-notes/C%2B%2B%E7%BC%96%E7%A8%8B%E9%A3%8E%E6%A0%BC.md)
 2. [C++堆栈内存管理](https://github.com/haolian123/CppToyBox/blob/main/Cpp-notes/C%2B%2B堆栈内存管理.md)
-3. [C++异常处理](https://github.com/haolian123/CppToyBox/blob/main/Cpp-notes/C%2B%2B堆栈内存管理.md)
+3. [C++异常处理](https://github.com/haolian123/CppToyBox/blob/main/Cpp-notes/C%2B%2B异常处理.md)
 4. [C++移动语义](https://github.com/haolian123/CppToyBox/blob/main/Cpp-notes/C%2B%2B移动语义.md)
 5. [C++字面量、静态断言和成员函数说明符](https://github.com/haolian123/CppToyBox/blob/main/Cpp-notes/C%2B%2B字面量、静态断言和成员函数说明符.md)
 6. [C++对象和返回值优化](https://github.com/haolian123/CppToyBox/blob/main/Cpp-notes/C%2B%2B对象和返回值优化.md)
@@ -52,4 +52,3 @@
 
 1. [C++那些事](https://github.com/Light-City/CPlusPlusThings)
 2. https://github.com/huihut/interview
-
