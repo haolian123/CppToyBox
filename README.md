@@ -45,6 +45,11 @@
 10. [编译链接](https://github.com/haolian123/CppToyBox/blob/main/Cpp-interview/编译链接.md)
 11. [CMake](https://github.com/haolian123/CppToyBox/blob/main/Cpp-notes/CMake.md)
 12. [Linux](https://github.com/haolian123/CppToyBox/blob/main/Cpp-interview/Linux.md)
+13. [常考代码题](https://github.com/haolian123/CppToyBox/blob/main/Cpp-interview/%E4%BB%A3%E7%A0%81%E9%A2%98.md)
+14. [智力题](https://github.com/haolian123/CppToyBox/blob/main/Cpp-interview/%E5%9C%BA%E6%99%AF%E9%A2%98.md)
+15. [TCP](https://github.com/haolian123/CppToyBox/blob/main/Cpp-interview/TCP.md)
+16. [Git](https://github.com/haolian123/CppToyBox/blob/main/Cpp-interview/Git.md)
+17. [Epoll](https://github.com/haolian123/CppToyBox/blob/main/Cpp-interview/Epoll.md)
 
  🔔[pdf版本](https://github.com/haolian123/CppToyBox/blob/main/Cpp-interview/pdf)
 
