@@ -185,8 +185,6 @@ void foo(EntityType entityType) {
 }
 ```
 
-当然，我会为你整理关于RAII（Resource Acquisition Is Initialization）的详细笔记。RAII是一种用于管理资源（如内存、文件句柄、网络连接等）的编程技巧，特别是在C++中广泛应用。以下是对RAII的全面介绍：
-
 ---
 
 # 三、RAII（资源获取即初始化）
